@@ -1,0 +1,33 @@
+Show_Title,_id,average_IMDB,average_Rotten
+"[""The Twilight Zone""]",1959-01-01T00:00:00.000Z,9,86
+"[""Star Trek""]",1966-01-01T00:00:00.000Z,8.3,82
+"[""Monty Python's Flying Circus""]",1969-01-01T00:00:00.000Z,8.8,81
+"[""Star Trek: The Next Generation""]",1987-01-01T00:00:00.000Z,8.6,86
+"[""Seinfeld"",""The Simpsons""]",1989-01-01T00:00:00.000Z,8.7,92
+"[""Twin Peaks"",""Mr. Bean""]",1990-01-01T00:00:00.000Z,8.65,85.5
+"[""The X-Files"",""Frasier""]",1993-01-01T00:00:00.000Z,8.35,85
+"[""Neon Genesis Evangelion"",""Pride and Prejudice""]",1995-01-01T00:00:00.000Z,8.65,82.5
+"[""Buffy the Vampire Slayer""]",1997-01-01T00:00:00.000Z,8.2,86
+"[""One Piece"",""Futurama"",""Freaks and Geeks"",""Family Guy""]",1999-01-01T00:00:00.000Z,8.5,85.5
+"[""Gilmore Girls"",""Black Books""]",2000-01-01T00:00:00.000Z,8.3,82.5
+"[""Scrubs"",""24"",""The Office""]",2001-01-01T00:00:00.000Z,8.366666666666667,85.66666666666667
+"[""Naruto"",""Firefly"",""The Shield""]",2002-01-01T00:00:00.000Z,8.666666666666666,85.33333333333333
+"[""Arrested Development"",""Chappelle's Show"",""Peep Show""]",2003-01-01T00:00:00.000Z,8.666666666666666,83.66666666666667
+"[""Lost"",""Veronica Mars"",""House""]",2004-01-01T00:00:00.000Z,8.433333333333334,88.66666666666667
+"[""Avatar: The Last Airbender"",""Supernatural"",""It's Always Sunny in Philadelphia"",""How I Met Your Mother"",""Prison Break""]",2005-01-01T00:00:00.000Z,8.620000000000001,89.8
+"[""The IT Crowd"",""Death Note"",""30 Rock"",""Friday Night Lights"",""Dexter"",""Psych""]",2006-01-01T00:00:00.000Z,8.533333333333333,85.83333333333333
+"[""Naruto Shippūden"",""Chuck"",""Californication""]",2007-01-01T00:00:00.000Z,8.366666666666667,82.66666666666667
+"[""Breaking Bad"",""Sons of Anarchy"",""Star Wars: The Clone Wars""]",2008-01-01T00:00:00.000Z,8.733333333333334,91
+"[""Community"",""Fullmetal Alchemist: Brotherhood"",""Parks and Recreation"",""Modern Family"",""Archer"",""White Collar"",""Misfits""]",2009-01-01T00:00:00.000Z,8.514285714285714,87.28571428571429
+"[""The Walking Dead"",""Downton Abbey"",""Justified"",""Adventure Time"",""The Pacific""]",2010-01-01T00:00:00.000Z,8.48,86.4
+"[""Black Mirror"",""Shameless"",""Hunter x Hunter"",""Homeland"",""Bob's Burgers"",""The Killing"",""Steins;Gate""]",2011-01-01T00:00:00.000Z,8.528571428571428,86
+"[""The Legend of Korra"",""Gravity Falls"",""Line of Duty""]",2012-01-01T00:00:00.000Z,8.666666666666666,86
+"[""Attack on Titan"",""Peaky Blinders"",""House of Cards"",""Broadchurch"",""Rick and Morty"",""Vikings"",""Brooklyn Nine-Nine"",""Nathan For You"",""The Americans"",""Orphan Black"",""The Fall""]",2013-01-01T00:00:00.000Z,8.60909090909091,89.54545454545455
+"[""Outlander"",""BoJack Horseman"",""Penny Dreadful"",""How to Get Away with Murder"",""Halt and Catch Fire"",""Fargo"",""Black Sails"",""Cosmos""]",2014-01-01T00:00:00.000Z,8.525,85
+"[""Better Call Saul"",""Narcos"",""Marvel's Daredevil"",""Schitt's Creek"",""The Last Kingdom"",""Sense8"",""Making a Murderer"",""Master of None"",""One-Punch Man"",""Ash vs Evil Dead"",""Mr. Robot"",""The Expanse"",""Bosch""]",2015-01-01T00:00:00.000Z,8.53076923076923,87
+"[""Stranger Things"",""Lucifer"",""The Crown"",""The Good Place"",""American Crime Story"",""My Hero Academia"",""This Is Us"",""Atlanta"",""11.22.63"",""Fleabag"",""Billions"",""The Night Manager"",""The Grand Tour""]",2016-01-01T00:00:00.000Z,8.446153846153846,87.23076923076923
+"[""Dark"",""Mindhunter"",""Money Heist"",""Ozark"",""Atypical"",""The End of the F***ing World"",""Marvel's The Punisher"",""Castlevania"",""The Handmaid's Tale"",""Legion"",""Taboo"",""The Marvelous Mrs. Maisel"",""Counterpart""]",2017-01-01T00:00:00.000Z,8.392307692307693,86.6923076923077
+"[""Cobra Kai"",""Pose"",""Bodyguard"",""Narcos: Mexico"",""The Kominsky Method"",""The Haunting of Hill House"",""Derry Girls"",""Killing Eve"",""Mr Inbetween"",""Unforgotten"",""Tom Clancy's Jack Ryan""]",2018-01-01T00:00:00.000Z,8.372727272727273,83.63636363636364
+"[""The Witcher"",""Demon Slayer: Kimetsu no Yaiba"",""When They See Us"",""Love, Death & Robots"",""Unbelievable"",""Sex Education"",""Our Planet"",""Kingdom"",""After Life"",""The Promised Neverland"",""What We Do in the Shadows"",""The Boys"",""Good Omens"",""The Family Man"",""The Mandalorian""]",2019-01-01T00:00:00.000Z,8.566666666666666,85.4
+"[""The Queen's Gambit"",""The Last Dance"",""Normal People"",""DAVE""]",2020-01-01T00:00:00.000Z,8.625,85.75
+"[""Invincible"",""Loki"",""The Bad Batch""]",2021-01-01T00:00:00.000Z,8.466666666666667,88.33333333333333

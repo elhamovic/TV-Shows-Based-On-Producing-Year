@@ -1,0 +1,35 @@
+[{
+ $project: {
+  _id: 0,
+  ID: 0,
+  Type: 0
+ }
+}, {
+ $match: {
+  IMDb: {
+   $gt: 8
+  },
+  'Rotten Tomatoes': {
+   $gt: 80
+  }
+ }
+}, {
+ $group: {
+  _id: '$Year',
+  average_IMDB: {
+   $avg: '$IMDb'
+  },
+  average_Rotten: {
+   $avg: '$Rotten Tomatoes'
+  },
+  Show_Title: {
+   $push: '$Title'
+  }
+ }
+}, {
+ $sort: {
+  _id: 1
+ }
+}, {
+ $out: 'TV Shows Based On Producing Year'
+}]
